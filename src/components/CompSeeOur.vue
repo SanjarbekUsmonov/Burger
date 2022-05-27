@@ -15,7 +15,7 @@
             <div class="cartbox bg-light-blue-1  row  justify-between items-start content-start">
                 <div class="cart bg-white  row justify-center " v-for="cart in carts" :key="cart">
                   <div class="cart-insaid   content-center" >
-                      <q-img :src="cart.src"/>
+                      <q-img class="img" :src="cart.src"/>
                   </div>
                   <div class="text-h4">
                      {{cart.name}}
@@ -71,5 +71,8 @@ border-radius: 10px;
   width: 93%;
   height: 87%;
   margin-top: 15px;
+}
+.img{
+border-radius: 10px;
 }
 </style>
