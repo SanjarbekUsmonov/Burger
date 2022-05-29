@@ -11,7 +11,7 @@
                   <div class="text-body1 q-mt-lg">
                       Use one platform to sell products to anyone, anywhere—in person with Point of Sale and online through your website, social media, and online marketplaces.
                   </div>
-                  <div class="q-mt-lg">
+                  <div class="q-mt-lg flex no-wrap">
                     <input class="input" placeholder="Enter your email" type="email">
                     <q-btn color="black" class="q-ml-md" padding="20px 70px" label="Start" />
                   </div>
@@ -52,7 +52,7 @@ export default {
   height: 100%;
 }
 .con2{
-  width: 65%;
+  width: 57%;
   height: 100%;
 }
 .div-center{
