@@ -31,12 +31,18 @@ export default {
   data() {
     return {
       carts:[
-        {src:'https://foodsify.xyz/uploads/demo/demo620e808edc88e2022-02-17%2017:06:22.png',
-        name:'Foodfair'},
-        {src:'https://foodsify.xyz/uploads/demo/demo620e807ecf2cf2022-02-17%2017:06:06.png',
-        name:'Grocery'},
-        {src:'https://foodsify.xyz/uploads/demo/demo620e8065f0d552022-02-17%2017:05:41.png',
-        name:'GrShop'},
+        {
+        src:'https://foodsify.xyz/uploads/demo/demo620e808edc88e2022-02-17%2017:06:22.png',
+        name:'Foodfair'
+        },
+        {
+        src:'https://foodsify.xyz/uploads/demo/demo620e807ecf2cf2022-02-17%2017:06:06.png',
+        name:'Grocery'
+        },
+        {
+        src:'https://foodsify.xyz/uploads/demo/demo620e8065f0d552022-02-17%2017:05:41.png',
+        name:'GrShop'
+        },
       ]
     }
   },
