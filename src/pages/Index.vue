@@ -4,9 +4,6 @@
     <CompSyle/>
     <CompSeeOur/>
     <CompYourcan/>
-
-
-
     <CompPricing/>
   </div>
 </template>
