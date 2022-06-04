@@ -18,12 +18,16 @@
           </div>
           <div class="select " style="width: 30%;height: 100px;">
               <div class="fit row  justify-end items-start content-center">
-                  <select name="" id="" style="padding: 13px; margin-right: 8px; border-radius: 4px; ">
+                  <select name="" id=""
+                   style="padding: 13px; margin-right: 8px; border-radius: 4px; ">
                   <option value="eng">English</option>
                   <option value="rus">Russki</option>
                   <option value="uzb">Uzbek</option>
                  </select>
-                 <q-btn color="black" class="btn" padding="13px 35px" label="Become A Partner" />
+                 <q-btn color="black"
+                  class="btn"
+                  padding="13px 35px"
+                  label="Become A Partner" />
               </div>
           </div>
       </div>
