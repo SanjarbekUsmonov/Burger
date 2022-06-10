@@ -1,4 +1,4 @@
-<!-- <template>
+<template>
   <q-layout view="hhh lpR fff">
 
     <q-header class="bg-white text-white row justify-center content-center" style="height: 100px">
@@ -75,4 +75,4 @@ transition: 0.5s;
 }
 
 
-</style> -->
+</style>
