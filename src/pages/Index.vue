@@ -14,7 +14,7 @@ import CompSeeOur from '../components/CompSeeOur';
 import CompYourcan from 'src/components/CompYourcan';
 import CompPricing from 'src/components/CompPricing';
 export default {
-    components: {
+ components: {
     CompBuild,
     CompSyle,
     CompSeeOur,
