@@ -1,4 +1,4 @@
-<template>
+<!-- <template>
   <q-layout view="hhh lpR fff">
     <q-header
       class="bg-white text-white row justify-center content-center"
@@ -81,4 +81,4 @@
   border-radius: 4px;
   font-size: 12px;
 }
-</style>
+</style> -->
