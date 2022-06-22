@@ -1,4 +1,4 @@
-<!-- <template >
+<template >
   <div>
     <div class="container bg-orange-2   row justify-center items-center content-center">
       <div class="content bg-orange-2 ">
@@ -109,4 +109,4 @@ list-style: none;
 margin-bottom: 20px;
 font-size: 16px;
 }
-</style> -->
+</style>
